@@ -18,3 +18,5 @@ Sebuah application based project yang dapat melakukan prediksi UMR (Upah Minimum
 - Raihan Romzi Rakhman
 
 ## Ouput
+Bisa dicek melalui link ini:
+https://share.streamlit.io/raihanromzi/proyekakhir-orbit-prediksi_umr_regional/main/umr_indonesia_prediction.py
