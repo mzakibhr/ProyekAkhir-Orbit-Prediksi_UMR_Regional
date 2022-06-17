@@ -12,7 +12,7 @@ Sebuah application based project yang dapat melakukan prediksi UMR (Upah Minimum
 - Prediksi UMR di tahun yang akan datang
 
 ## Anggota
-| FirstName                    | Class       | GitHub                           |
+| Name                         | Class       | GitHub                           |
 | ---------------------------- | ----------- | -------------------------------- |
 | Musthafa Zaki Bahar          | `Persevere` | https://github.com/mzakibhr      |
 | Fadlan Akmal Ramadhan        | `Kangae`    | https://github.com/faramadhan    |
