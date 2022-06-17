@@ -12,10 +12,12 @@ Sebuah application based project yang dapat melakukan prediksi UMR (Upah Minimum
 - Prediksi UMR di tahun yang akan datang
 
 ## Anggota
-- Musthafa Zaki Bahar
-- Fadlan Akmal Ramadhan
-- Haydar Rizaly Putera Prayudi
-- Raihan Romzi Rakhman
+| FirstName                    | Class       | GitHub                           |
+| ---------------------------- | ----------- | -------------------------------- |
+| Musthafa Zaki Bahar          | `Persevere` | https://github.com/mzakibhr      |
+| Fadlan Akmal Ramadhan        | `Kangae`    | https://github.com/faramadhan    |
+| Raihan Romzi Rakhman         | `Kaizen`    | https://github.com/raihanromzi   |
+| Haydar Rizaly Putera Prayudi | `Kangae`    | https://github.com/HaydarRizaldy |
 
 ## Ouput
 Bisa dicek melalui link ini:
